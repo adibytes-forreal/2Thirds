@@ -1,0 +1,2 @@
+# 2Thirds
+for Supabase
